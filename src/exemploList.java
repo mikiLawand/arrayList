@@ -77,5 +77,10 @@ public class exemploList {
         //verifica se a lista esta vazia retornando boolean
         System.out.println("Confira se a lista está vazia: " + notas.isEmpty());
 
+        //clear
+        //apaga toda a lista 
+        //notas.clear();
+        //System.out.println(notas);
+
     }
 }
